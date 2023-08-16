@@ -1,2 +1,2 @@
 # IndocatorWorkshop
-This repository created to train my skills in using GitHub Desktop.
+This repository was created to train my skills in using GitHub Desktop.
